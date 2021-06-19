@@ -1,0 +1,20 @@
+This datasets contains Houses listings in Nigeria and their prices based on Location and other parameters.
+
+Datashape (24326, 8)
+
+Parameters:
+
+- bedrooms -> number of bedrooms in the houses
+- bathrooms -> number of bathrooms in the houses
+- toilets -> number of toilets 
+- parking_space
+- title -> house type
+- town -> town in which the house is located
+- state -> state within Nigeria in which the house is located and finally
+- price -> the target column.
+
+Github: https://github.com/Abdulkbk/Nigerian-Real-Estate-Project (don't forget to star)
+Source: https://nigeriapropertycentre.com/
+Author: 
+LinkedIn: https://linkedin.com/in/abdullahi-yunus-0894351a
+mail: abdoollahikbk@gmail.com
